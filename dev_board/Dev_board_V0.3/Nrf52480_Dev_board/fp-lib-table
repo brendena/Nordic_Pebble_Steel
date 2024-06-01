@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "custom")(type "KiCad")(uri "/home/brenden/Documents/Nordic_Pebble_Steel/dev_board/Dev_board_V0.3/footprints")(options "")(descr ""))
+)
